@@ -1,8 +1,8 @@
 ! Title: My AdGuard Personal Filter
 ! Description: Personal ad-blocking rules shared between my PCs
 ! Homepage: https://github.com/
-! Version: 1.0.0
-! Expires: 1 day
+! Version: 1.0.1
+! Expires: 1 hour
 
 ! Add personal rules below
 amap.com##.amap-copyright
