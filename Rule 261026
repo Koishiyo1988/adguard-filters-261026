@@ -1,0 +1,325 @@
+! Title: My AdGuard Personal Filter
+! Description: Personal ad-blocking rules shared between my PCs
+! Homepage: https://github.com/
+! Version: 1.0.0
+! Expires: 1 day
+
+! Add personal rules below
+amap.com##.amap-copyright
+www.avdbs.com##.shw-1024-over.dbs-bnr-wrp
+map.baidu.com###leadDownloadCard
+map.baidu.com##.message-panel-open
+map.baidu.com##.poiLeadDownloadCard
+bilibili.com###right-bottom-banner
+bilibili.com##.ad-report.ad-floor.report-wrap-module.report-scroll-module
+bilibili.com##.inside-wrp
+bilibili.com##.left
+bilibili.com##.nav-menu
+bilibili.com##.pl__card
+bilibili.com##.pl__head
+bilibili.com##.pl__mask
+bilibili.com##.tip-info
+bilibili.com##.vcd
+live.bilibili.com##.hot-act > .title
+live.bilibili.com##.live-box.f-clear
+manga.bilibili.com##.hot-act > .title
+manga.bilibili.com##.live-box.f-clear
+message.bilibili.com##.hot-act > .title
+message.bilibili.com##.live-box.f-clear
+message.bilibili.com##div.custom-navbar-item:nth-of-type(24) > .main-content
+search.bilibili.com##.b-footer-wrap
+search.bilibili.com##.btn-to-top-wrap
+search.bilibili.com##.international-footer
+search.bilibili.com##.side-buttons.flex_col_end.p_absolute
+t.bilibili.com##.img-container
+t.bilibili.com##.title.tc-black.fs-14.ls-0
+t.bilibili.com##.topic-panel
+www.bilibili.com##.DanmukuBox_wrap___eG0H
+www.bilibili.com##.bpx-player-sending-bar
+www.bilibili.com##.bpx-player-toast-wrap
+www.bilibili.com##.danmaku-wrap
+www.bilibili.com##.default-entry > span
+www.bilibili.com##.fixed-sidenav-storage
+www.bilibili.com##.header-upload-entry
+www.bilibili.com##.hot-act > .title
+www.bilibili.com##.live-box.f-clear
+www.bilibili.com##.loc-mc-box
+www.bilibili.com##.loc-mc-box__text--down.loc-mc-box__text
+www.bilibili.com##.loc-moveclip.loc-entry
+www.bilibili.com##.mini-header__title
+www.bilibili.com##.paybar_container__WApBR
+www.bilibili.com##.right-entry--vip.right-entry__outside
+www.bilibili.com##.toolbar
+www.bilibili.com##.video-tag-container
+www.bilibili.com##.video-toolbar-left
+www.bilibili.com##.video-toolbar-right
+www.bilibili.com##div.custom-navbar-item:nth-of-type(24) > .main-content
+www.bilibili.com##li.right-entry-item > .right-entry__outside
+www.bilibili.com##li.v-popover-wrap:nth-of-type(2)
+www.bilibili.com##li.v-popover-wrap:nth-of-type(9)
+m.bunjang.co.kr##._top-banner-large_z6lgp_21
+m.bunjang.co.kr##.eQLFCF.sc-RefOD
+m.bunjang.co.kr##.sc-bsVVwV.cnkkog
+m.bunjang.co.kr##.sc-bwCtUz.gDhHUm
+m.bunjang.co.kr##.sc-iuJeZd.doyOwb
+www.card-gorilla.com##.footerArea
+mc.coupang.com###footer
+mc.coupang.com##[src*="https://static.coupangcdn.com/ba/cmg_paperboy/image/1697419772257/MY_PC.jpg"]
+www.coupang.com###coupang-banner
+flights.ctrip.com##.fl_footer_wrap_ow234
+flights.ctrip.com##.footer-wrapper
+flights.ctrip.com##.six_protection_body
+trains.ctrip.com##.back-guide-img
+trains.ctrip.com##.fl_normal_footer_YgQc1.fl_layout_wrap_g-sIE
+trains.ctrip.com##.guide-box
+trains.ctrip.com##.guide-box-content
+trains.ctrip.com##.index-server > li
+trains.ctrip.com##.spring-box-component > div > .index-show
+trains.ctrip.com##div.index-show:nth-of-type(4)
+trains.ctrip.com##div.index-show:nth-of-type(5)
+auto.danawa.com###newcarAdList
+auto.danawa.com##.clearFix.point.auto_policy
+search.danawa.com###powerShoppingAreaBottom
+encar.com###adRt
+encar.com###footerDIV
+encar.com###prCarAdArea
+encar.com##.adRt
+encar.com##.deal_tip
+encar.com##.footer
+encar.com##.retarget_ad.view_refresh
+encar.com##.section.list.special
+encar.com##.wrap_go
+www.encar.com###srCarAdIframe
+www.encar.com##.appdown_index
+www.encar.com##.carinfo_area
+www.encar.com##.inner_sitemap
+www.encar.com##.section_help
+google.com##.MV3Tnb
+google.com##.RNmpXc
+google.com##.pHiOh
+google.com##.uU7dJb
+mail.google.com##.ma
+www.google.com##.Ij8KCd
+www.google.com##.SSwjIe.KxwPGc
+www.google.com##a.w5hRs
+www.google.com##promo-middle-slot
+hanime1.me###player-div-wrapper > div:nth-of-type(2)
+hanime1.me##.hidden-sm.hidden-xs.sidebar-ad-grid
+hentai.tv##.footer
+hentai.tv##div.flex-1:nth-child(8) > div.container.px-2.lg\:px-6.grid.gap-6.lg\:grid-cols-3.lg\:grid-rows-\[auto_1fr\].xl\:grid-cols-4.lg\:pt-6 > div.grid.gap-3.lg\:col-span-2.xl\:col-span-3:first-child > div.fr-mb.order-first.-lg\:-mx-2.flex.py-3.pb-3.px-3.pr-3.items-center.justify-between:nth-child(3)
+holidays-calendar.net##.footer-copyright.text-center.py-3.text-light.bg-dark
+kr.investing.com###lightbox-iframe-d3c32d71-4135-4d19-bfa1-3bb809db8335
+kr.investing.com###promo-strip
+kr.investing.com###uo_valued_wrapper
+kr.investing.com##.mid-page-promo-btn-wrapper
+kr.investing.com##.proPromo-stripe.promo-strip-wrapper
+javtiful.com###navList > div.me-2.fw-semibold:nth-of-type(1) > .navlist-link.p-2.text-decoration-none.text-black
+javtiful.com##.action-two.d-flex.flex-grow-1.justify-content-end
+javtiful.com##.btn.btn-danger.rounded-4.v3sx.p-1.fs-7
+javtiful.com##.cam.navlist-link.p-2.text-decoration-none.text-black.d-none.d-xl-block
+javtiful.com##.dropdown-item.border.border-secondary.rounded.border-opacity-50.mb-2.ps-1.pe-1.pt-2.pb-2.fw-semibold.d-flex.align-items-center
+javtiful.com##.dropdown-item.ps-1.pe-1.pt-2.pb-2.fw-semibold.d-flex.align-items-center.text-success.fw-bolder.border.border-success-subtle.rounded-2
+javtiful.com##.front-ad-card.front-video-card
+javtiful.com##.front-ad-placement-in-video.front-ad-placement
+javtiful.com##.front-ad-placement-text.front-ad-placement
+javtiful.com##.front-feature-placement-player.front-feature-placement
+javtiful.com##.front-feature-placement-text.front-feature-placement
+javtiful.com##.front-footer
+javtiful.com##.front-page-head
+javtiful.com##.front-partner-card.front-video-card
+javtiful.com##.is-initialized.is-active.splide--draggable.splide--ltr.splide--loop.py-md-3.py-4.splide.mx-md-0.mx-1.fs-5.text-center.border.alert
+javtiful.com##.is-initialized.is-overflow.is-active.splide--draggable.splide--ltr.splide--loop.py-md-3.py-4.splide.mx-md-0.mx-1.fs-5.text-center.border.alert
+javtiful.com##.javhd.navlist-link.p-2.text-decoration-none.text-black.d-none.d-xl-block
+javtiful.com##.mb-2.border-bottom.rounded-3.pb-3.channel-item
+javtiful.com##.navlist-link.p-2.text-decoration-none.text-black.d-flex.align-items-center
+javtiful.com##.nopop.fah-btn
+javtiful.com##.offcanvas-header.border-bottom.border-secondary-subtle.border-opacity-10
+javtiful.com##.offer-box.text-muted.text-center
+javtiful.com##.ps-4.pe-4.pt-2.pb-2.border-bottom.border-secondary.border-opacity-10
+javtiful.com##.ps-4.pe-4.pt-2.pb-2.fs-6.text-muted
+javtiful.com##.report-btn.btn.p-0.pb-1.fw-bold
+javtiful.com##.v3sb-box
+javtiful.com##.v3sb-box > div:nth-of-type(1) > div:nth-of-type(1)
+javtiful.com##.video-comments.mt-5.ps-2.pe-2.ps-lg-0.pe-lg-0
+javtiful.com##a.sidebar-link.ps-4.pe-4.pt-2.pb-2.text-black.text-decoration-none.d-block.fs-6:nth-of-type(10)
+javtiful.com##a.sidebar-link.ps-4.pe-4.pt-2.pb-2.text-black.text-decoration-none.d-block.fs-6:nth-of-type(11)
+javtiful.com##a.sidebar-link.ps-4.pe-4.pt-2.pb-2.text-black.text-decoration-none.d-block.fs-6:nth-of-type(12)
+javtiful.com##div.pb-3.col:nth-of-type(1)
+global.jd.com###top-banner
+global.jd.com##.copyright_auth
+global.jd.com##.copyright_info
+global.jd.com##.slogen
+search.jd.com###J_promGoodsWrap_291
+search.jd.com###footer-2017
+search.jd.com##.copyright_info
+search.jd.com##.slogen
+search.jd.com##.u-ad-wrap.promo-pic-adbox
+map.kakao.com###footer
+map.kakao.com###info\.notice
+map.kakao.com##.Footer
+map.kakao.com##.newPlace
+map.kakao.com##.notice
+map.kakao.com##.reportError
+missav123.com##.gap-2.grid-cols-2.grid.text-nord14.list-none.mb-4
+missav123.com##.items-center.space-x-4.xl\:flex.hidden > a.focus\:outline-none.hover\:text-primary.text-nord6.font-medium.leading-6.text-base
+missav123.com##.lg\:mb-10.mb-5 > [href="#"]
+missav123.com##.lg\:py-16.py-12.mx-auto.max-w-7xl
+missav123.com##.mb-5.space-y-5
+missav123.com##.px-4.mb-5.mx-auto.sm\:container
+missav123.com##.relative.text-white.text-center.sm\:rounded-t-md.py-3.sm\:m-0.mb-6.-mt-6.-mx-4.bg-primary
+missav123.com##.rounded.mb-3.p-3.bg-primary.text-white
+missav123.com##.sm\:rounded-b-lg.rounded-b-0.bg-black.sm\:py-4.py-2.px-4.sm\:m-0.-mx-4
+missav123.com##.space-y-6.text-nord9.mt-4.md\:justify-center.md\:items-center.md\:flex-col.md\:flex.hidden
+missav123.com##.text-white.text-center.sm\:rounded-t-md.py-3.sm\:m-0.mb-6.-mt-6.-mx-4.bg-primary
+missav123.com##.vsc-hidden.vsc-manual.vsc-controller
+missav123.coms##.aspect-h-9.aspect-w-16 > .vsc-hidden.vsc-controller
+missav123.coms##div.relative:nth-of-type(6)
+www.moyoplan.com##.dt\:max-w-none.flex-col.flex.max-w-\[640px\].w-full.mx-auto
+www.moyoplan.com##.overflow-hidden.dt\:border-none.dt\:py-10.border-gray-200.border-b.py-5.px-5.flex-col.flex
+namu.wiki##.RAJKQ7og
+namu.wiki##._8AAIP15B.A4wJ2NWh
+namu.wiki##.aU8qPRp9
+namu.wiki##.vTkb-dZS
+namu.wiki##footer
+land.naver.com##.type_performance.banner
+mail.naver.com###gnb_list
+mail.naver.com###lnb-my-folder
+mail.naver.com###root > div:nth-child(2) > nav.lnb:last-child > div.lnb_inner > div.scroll_area:last-child > div.lnb_mailbox:first-child > ul.mailbox_list:first-child > li.mailbox_item:nth-child(4)
+mail.naver.com###root > div:nth-child(2) > nav.lnb:last-child > div.lnb_inner > div.scroll_area:last-child > div.lnb_mailbox:first-child > ul.mailbox_list:first-child > li.mailbox_item:nth-child(4) > div.mailbox > div.mailbox_link
+mail.naver.com###root > div:nth-child(2) > nav.lnb:last-child > div.lnb_inner > div.scroll_area:last-child > div.lnb_mailbox:first-child > ul.mailbox_list:first-child > li.mailbox_item:nth-child(4) > div.mailbox.selected > div.mailbox_link
+mail.naver.com###smart-channel-1_tgtLREC
+mail.naver.com###smart-channel-7_tgtLREC
+mail.naver.com###smartChannel_tgtLREC
+mail.naver.com##.button_view_top.iIDBPL.sc-dkPtRN
+mail.naver.com##.faq_cover
+mail.naver.com##.gnb_list_box
+mail.naver.com##.h_lft_menu
+mail.naver.com##.lnb_footer
+mail.naver.com##.lnb_notice
+mail.naver.com##.notify_area
+mail.naver.com##.quick_link
+mail.naver.com##.section_typemail
+mail.naver.com##.smart_channel
+mail.naver.com##li.support.mailbox_item:nth-of-type(11)
+mybox.naver.com###content > div.task_area_wrap:first-child > div.task_area > div.cmn_promotion_image:first-child > a.link_banner:first-child
+mybox.naver.com##.btn_purchase
+mybox.naver.com##.corp_info_area
+mybox.naver.com##div.lnb_box:nth-of-type(3)
+mybox.naver.com##div.lnb_box:nth-of-type(5)
+njavtv.com##.aspect-h-9.aspect-w-16 > .vsc-hidden.vsc-controller
+njavtv.com##.gap-2.grid-cols-2.grid.text-nord14.list-none.mb-4
+njavtv.com##.items-center.space-x-4.xl\:flex.hidden > a.focus\:outline-none.hover\:text-primary.text-nord6.font-medium.leading-6.text-base
+njavtv.com##.lg\:mb-10.mb-5 > [href="#"]
+njavtv.com##.lg\:py-16.py-12.mx-auto.max-w-7xl
+njavtv.com##.mb-5.space-y-5
+njavtv.com##.px-4.mb-5.mx-auto.sm\:container
+njavtv.com##.relative.text-white.text-center.sm\:rounded-t-md.py-3.sm\:m-0.mb-6.-mt-6.-mx-4.bg-primary
+njavtv.com##.rounded.mb-3.p-3.bg-primary.text-white
+njavtv.com##.sm\:rounded-b-lg.rounded-b-0.bg-black.sm\:py-4.py-2.px-4.sm\:m-0.-mx-4
+njavtv.com##.space-y-6.text-nord9.mt-4.md\:justify-center.md\:items-center.md\:flex-col.md\:flex.hidden
+njavtv.com##.text-white.text-center.sm\:rounded-t-md.py-3.sm\:m-0.mb-6.-mt-6.-mx-4.bg-primary
+njavtv.com##.vsc-hidden.vsc-manual.vsc-controller
+njavtv.com##div.relative:nth-of-type(6)
+pornhub.com###welcome
+pornhub.com##.abAlertInner
+pornhub.com##.abovePlayer
+pornhub.com##.bebdfdfqjg
+pornhub.com##.cccedcbcbd1687354081583
+pornhub.com##.cookiesBanner
+pornhub.com##.footerContentWrapper
+pornhub.com##.g37y2dhaehr.g37y2dhaehu.hd.clear
+pornhub.com##.innerContainer
+www.pornhub.com##.emailVerHomepageContainer > p
+signal.bz##.banner-bg
+signal.bz##.desktop-container
+signal.bz##.divider
+signal.bz##.footer
+signal.bz##.news-title-layout
+www.signal.bz##.main-container > section > div
+supjav.com##.copyright
+supjav.com##.icon.icon-totop
+supjav.com##.movv-ad.ad_2_1
+supjav.com##.nav
+supjav.com##.right
+linkkf.tckopke.com##.ewave-comment
+linkkf.tckopke.com##.footer
+linkkf.tckopke.com##.player > strong
+linkkf.tckopke.com##div.container:nth-of-type(9)
+linkkf.tckopke.com##span > center
+www.tiktok.com##.TUXModal-overlay
+xvideos.com##.h1eaaD5F8fFBb1217545df0393Ec8EE34
+xvideos.com##.haCf8af3dF7a2aC1E01DdEEde897A2CBc
+xvideos.com##.ntv224425A3699E9dAF0cE5a3bFd92Ab37B
+xvideos.com##.part-right
+www.xvideos.com##.botLinks
+www.xvideos.com##.chat-icon
+www.xvideos.com##.icf-comments-o.icon-f
+www.xvideos.com##.slogan
+www.xvideos.com##.terms
+youtube.com###clarify-box
+youtube.com###frosted-glass
+youtube.com###panels
+youtube.com##.goodTube_menuButton
+youtube.com##.goodTube_menuClose
+youtube.com##div:nth-child(3) > a.goodTube_menuButton:first-child
+youtube.com##div:nth-child(3) > a.goodTube_menuClose:nth-child(2)
+youtube.com##div:nth-child(7) > a.goodTube_menuButton:first-child
+youtube.com##div:nth-child(7) > a.goodTube_menuClose:nth-child(2)
+www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
+www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com###button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
+www.youtube.com###copyright
+www.youtube.com###expandable-items > .ytd-guide-collapsible-entry-renderer.style-scope
+www.youtube.com###flexible-item-buttons
+www.youtube.com###foreground-content
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com###middle-row > .ytd-watch-metadata.style-scope
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+www.youtube.com###sponsor-button
+www.youtube.com###subscribe-button-shape
+www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
+www.youtube.com###voice-search-button
+www.youtube.com##.delhi-fast-follow-autonav-toggle.ytp-autonav-toggle.ytp-button
+www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+www.youtube.com##.sbib_c.gsst_b
+www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com##.ytd-guide-downloads-entry-renderer.style-scope
+www.youtube.com##.ytd-subscribe-button-renderer.style-scope > yt-button-shape
+www.youtube.com##.ytp-autonav-toggle-button-container
+www.youtube.com##.ytp-button.ytp-fullscreen-button
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+www.youtube.com##.ytp-button.ytp-mute-button
+www.youtube.com##.ytp-button.ytp-next-button
+www.youtube.com##.ytp-button.ytp-pip-button
+www.youtube.com##.ytp-button.ytp-play-button
+www.youtube.com##.ytp-button.ytp-prev-button
+www.youtube.com##.ytp-button.ytp-remote-button
+www.youtube.com##.ytp-button.ytp-size-button
+www.youtube.com##.ytp-button.ytp-subtitles-button
+www.youtube.com##.ytp-fullscreen-quick-actions
+www.youtube.com##.ytp-paid-content-overlay-link
+www.youtube.com##button.ytp-button:nth-of-type(2)
+www.youtube.com##ytd-guide-collapsible-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope > .ytd-guide-collapsible-entry-renderer.style-scope
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(6)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(6)
+##.goodTube_menuButton
+yinhuadm.net##div.page.player:first-child > div.dbcute:last-child > img
+dm84.tv###qrcode
+##.jw-logo-top-right
+supjav.com##header.header:first-child > div.container.clearfix > div.top.clearfix:first-child > a:first-child > img.logo
+lotteglogis.com###container > div.subVisualArea:first-child
+lotteglogis.com###header
+lotteglogis.com###container > div.navigationArea:nth-child(2)
+lotteglogis.com###footer
+lotteglogis.com###contents > div.inner > div.contTitArea:first-child
