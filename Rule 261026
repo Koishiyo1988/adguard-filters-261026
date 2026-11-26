@@ -111,6 +111,7 @@ kr.investing.com###promo-strip
 kr.investing.com###uo_valued_wrapper
 kr.investing.com##.mid-page-promo-btn-wrapper
 kr.investing.com##.proPromo-stripe.promo-strip-wrapper
+kr.investing.com##nbs-placement:nth-child(5) > div > iframe
 javtiful.com###navList > div.me-2.fw-semibold:nth-of-type(1) > .navlist-link.p-2.text-decoration-none.text-black
 javtiful.com##.action-two.d-flex.flex-grow-1.justify-content-end
 javtiful.com##.btn.btn-danger.rounded-4.v3sx.p-1.fs-7
